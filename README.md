@@ -6,15 +6,15 @@ Userscript do wtyczki [tampermonkey](https://www.tampermonkey.net/) ukazująca p
 # Instalacja
 #### 1. Zainstaluj wtyczkę [tampermonkey](https://www.tampermonkey.net/)
 
-(W przypadku innych przeglądarek niż firefox i safari włącz "developer mode" w liscie rozszerzeń (url dla google chrome: chrome://extensions))
+Dla ***Chrome*** lub innej przeglądarki opartej na ***Chromium*** włącz ***Developer Mode*** w liscie rozszerzeń podając w pasku URL: `chrome://extensions`
 
-![lista rozszerzeń w google chrome](https://github.com/user-attachments/assets/850b3276-b205-4c23-8a1c-81ae2651fd9a)
+![Chrome Extensions](https://github.com/user-attachments/assets/cb68b24e-1b57-4072-90c8-97d6a8e8f6ea)
 
 #### 2. Kliknij ikonkę tampermonkey -> `create a new script`
 
-![tampermonkey context menu -> create a new script](https://github.com/user-attachments/assets/a867cf82-6898-433c-b073-c8ce546984fe)
+![Create a new script](https://github.com/user-attachments/assets/a867cf82-6898-433c-b073-c8ce546984fe)
 
 #### 3. Wklej całą zawartość skryptu [stąd]()
 #### 4. Zapisz
 
-![file -> save](https://github.com/user-attachments/assets/7a880214-da96-407c-8afc-4c1279cd0309)
+![Save](https://github.com/user-attachments/assets/7a880214-da96-407c-8afc-4c1279cd0309)
