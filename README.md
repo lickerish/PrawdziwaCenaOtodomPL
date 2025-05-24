@@ -17,4 +17,4 @@ Userscript do wtyczki [tampermonkey](https://www.tampermonkey.net/) ukazująca p
 #### 3. Wklej całą zawartość skryptu [stąd]()
 #### 4. Zapisz
 
-![file -> save](https://github.com/user-attachments/assets/3e3abd31-c0d9-492f-951a-4cdbf5f5d660)
+![file -> save](https://github.com/user-attachments/assets/7a880214-da96-407c-8afc-4c1279cd0309)
