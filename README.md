@@ -14,7 +14,7 @@ Dla ***Chrome*** lub innej przeglądarki opartej na ***Chromium*** włącz ***De
 
 ![Create a new script](https://github.com/user-attachments/assets/a867cf82-6898-433c-b073-c8ce546984fe)
 
-#### 3. Wklej całą zawartość skryptu [stąd]()
+#### 3. Wklej całą zawartość skryptu [stąd](https://raw.githubusercontent.com/lickerish/PrawdziwaCenaOtodomPL/refs/heads/Adds-content/userScript.js)
 #### 4. Zapisz
 
 ![Save](https://github.com/user-attachments/assets/7a880214-da96-407c-8afc-4c1279cd0309)
